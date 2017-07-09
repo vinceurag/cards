@@ -1,6 +1,6 @@
 # Cards [Demo Code]
 
-**Just me trying to learn Elixir.**
+**Just me trying to learn the Elixir language and the functional programming paradigm.**
 
 <!-- ## Installation
 
